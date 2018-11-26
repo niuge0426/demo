@@ -6,6 +6,7 @@ public class TestGitReset {
 		System.out.println("牛璐璐提交的");
 		System.out.println("测试、、、、、、、");
 		System.out.println("test");
+		System.out.println("test");
 	}
 
 }
