@@ -20,7 +20,7 @@ public class TestGitReset {
 		
 		
 //		Collections.sort(list);
-		System.out.println(list.toString());
+		System.out.println(list.toString().substring(1, list.toString().length() - 1));
 	}
 
 }
